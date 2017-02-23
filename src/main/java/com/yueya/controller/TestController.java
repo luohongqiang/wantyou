@@ -23,6 +23,7 @@ public class TestController {
         System.out.printf("test mvc");
         System.out.printf("test mvc");
         System.out.printf("test mvc");
+        System.out.printf("test mvc");System.out.printf("test mvc");System.out.printf("test mvc");
         return "success";
     }
 
